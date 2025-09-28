@@ -1,0 +1,23 @@
+artifact_path: file:///Users/williamdieterfrank/Github/Kaggle/Brain%20tumor%20classifier/mlruns/462315663769317674/models/m-e4cc8407767b4d469a1b91f37f5098c5/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.12.11
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.8.0
+mlflow_version: 3.4.0
+model_id: m-e4cc8407767b4d469a1b91f37f5098c5
+model_size_bytes: 44793959
+model_uuid: m-e4cc8407767b4d469a1b91f37f5098c5
+prompts: null
+run_id: cd6f2777128b40bfbc214fc5dd3b026b
+utc_time_created: '2025-09-28 21:48:01.913518'

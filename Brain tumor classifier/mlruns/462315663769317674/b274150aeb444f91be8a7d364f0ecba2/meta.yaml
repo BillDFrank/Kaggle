@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/williamdieterfrank/Github/Kaggle/Brain%20tumor%20classifier/mlruns/462315663769317674/b274150aeb444f91be8a7d364f0ecba2/artifacts
+end_time: 1759097292609
+entry_point_name: ''
+experiment_id: '462315663769317674'
+lifecycle_stage: active
+run_id: b274150aeb444f91be8a7d364f0ecba2
+run_name: crawling-steed-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759096474926
+status: 3
+tags: []
+user_id: williamdieterfrank

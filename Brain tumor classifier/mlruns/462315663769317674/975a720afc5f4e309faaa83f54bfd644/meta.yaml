@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/williamdieterfrank/Github/Kaggle/Brain%20tumor%20classifier/mlruns/462315663769317674/975a720afc5f4e309faaa83f54bfd644/artifacts
+end_time: 1759095481277
+entry_point_name: ''
+experiment_id: '462315663769317674'
+lifecycle_stage: active
+run_id: 975a720afc5f4e309faaa83f54bfd644
+run_name: big-mink-781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759095481271
+status: 3
+tags: []
+user_id: williamdieterfrank

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/williamdieterfrank/Github/Kaggle/Brain%20tumor%20classifier/mlruns/462315663769317674/cd6f2777128b40bfbc214fc5dd3b026b/artifacts
+end_time: 1759096084079
+entry_point_name: ''
+experiment_id: '462315663769317674'
+lifecycle_stage: active
+run_id: cd6f2777128b40bfbc214fc5dd3b026b
+run_name: resilient-eel-594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759096013600
+status: 3
+tags: []
+user_id: williamdieterfrank

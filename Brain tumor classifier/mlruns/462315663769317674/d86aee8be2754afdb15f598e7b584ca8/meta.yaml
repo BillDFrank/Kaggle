@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/williamdieterfrank/Github/Kaggle/Brain%20tumor%20classifier/mlruns/462315663769317674/d86aee8be2754afdb15f598e7b584ca8/artifacts
+end_time: 1759096270678
+entry_point_name: ''
+experiment_id: '462315663769317674'
+lifecycle_stage: active
+run_id: d86aee8be2754afdb15f598e7b584ca8
+run_name: nimble-horse-444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759096197290
+status: 3
+tags: []
+user_id: williamdieterfrank

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/williamdieterfrank/Github/Kaggle/Brain%20tumor%20classifier/mlruns/462315663769317674/df1bf01930be41b990fb5441258805e3/artifacts
+end_time: 1759096275804
+entry_point_name: ''
+experiment_id: '462315663769317674'
+lifecycle_stage: active
+run_id: df1bf01930be41b990fb5441258805e3
+run_name: abundant-dolphin-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759096275797
+status: 3
+tags: []
+user_id: williamdieterfrank

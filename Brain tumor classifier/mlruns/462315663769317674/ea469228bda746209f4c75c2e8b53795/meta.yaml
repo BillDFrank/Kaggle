@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/williamdieterfrank/Github/Kaggle/Brain%20tumor%20classifier/mlruns/462315663769317674/ea469228bda746209f4c75c2e8b53795/artifacts
+end_time: 1759097305225
+entry_point_name: ''
+experiment_id: '462315663769317674'
+lifecycle_stage: active
+run_id: ea469228bda746209f4c75c2e8b53795
+run_name: caring-snail-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759097305219
+status: 3
+tags: []
+user_id: williamdieterfrank

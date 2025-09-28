@@ -1,0 +1,10 @@
+artifact_location: file:///Users/williamdieterfrank/Github/Kaggle/Brain%20tumor%20classifier/mlruns/462315663769317674/models/m-b12ac11ad5884f39a3ddc190abb24a1f/artifacts
+creation_timestamp: 1759097290314
+experiment_id: '462315663769317674'
+last_updated_timestamp: 1759097292606
+model_id: m-b12ac11ad5884f39a3ddc190abb24a1f
+model_type: null
+name: model
+source_run_id: b274150aeb444f91be8a7d364f0ecba2
+status: 2
+status_message: null
